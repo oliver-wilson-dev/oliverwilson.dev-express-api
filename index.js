@@ -1,7 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const sections = require('./sections');
 
 const app = express();
+
+app.use(cors());
 
 app.get('/sections', (req, res) => {
   res.status(200).json(sections);
