@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 
 app.get('/sections', (req, res) => {
-  res.status(200).json(sections);
+  res.status(200).json({ sections });
 });
 
 app.get('/', (req, res) => {
