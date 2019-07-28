@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'nice to meet you!',
+  title: 'Nice to meet you!',
   openingLine: {
     start: '👋 Hi, my name is Oliver Wilson and I am',
     joke: 'a machine that turns coffee into code',
