@@ -1,7 +1,8 @@
 module.exports = {
+  emoji: '👋',
   title: 'Nice to meet you!',
   openingLine: {
-    start: '👋 Hi, my name is Oliver Wilson and I am',
+    start: 'Hi, my name is Oliver Wilson and I am',
     joke: 'a machine that turns coffee into code',
     end: ' a web developer.',
   },
