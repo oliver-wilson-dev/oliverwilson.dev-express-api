@@ -2,8 +2,8 @@ module.exports = {
   emoji: '💻',
   title: 'Experience',
   companyName: 'ASOS',
-  jobTitle: 'Associate Web Developer',
-  employmentPeriod: 'SEPTEMBER 2017 - PRESENT',
+  jobTitle: 'Web Developer',
+  employmentPeriod: 'SEPTEMBER 2017 - JANUARY 2020',
   content: [
     'After being accepted for the first official graduate scheme for the web platform at asos I was catapulted into a number of projects that aided my personal and technical growth.',
     'During my time at asos I have been tasked with creating an internal react application that is used by the photography studios (the team that capture the product images displayed on the site) to coordinate their work and allow them to continue to deliver great assets while optimising their time and productivity.',
