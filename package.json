@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An express API that serves content for oliverwilson.dev",
   "main": "index.js",
+  "engines": { "node": "12.x" },
   "scripts": {
     "start": "node ."
   },
