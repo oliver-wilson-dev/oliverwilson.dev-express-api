@@ -26,14 +26,14 @@ module.exports = {
         {
           linkToProject: 'https://www.asos.com/search/?q=jeans',
           image: {
-            src: 'https://github.com/oliver-wilson-dev/oliver-wilson-dev.github.io/blob/master/public/img/plp.png?raw=true',
+            src: 'https://raw.githubusercontent.com/oliver-wilson-dev/oliver-wilson-dev.github.io/master/public/img/plp.png',
             alt: 'ASOS Product Listing Page',
           },
         },
         {
           linkToProject: 'https://www.asos.com/saved-lists/',
           image: {
-            src: 'https://github.com/oliver-wilson-dev/oliver-wilson-dev.github.io/blob/master/public/img/saved-lists.png?raw=true',
+            src: 'https://raw.githubusercontent.com/oliver-wilson-dev/oliver-wilson-dev.github.io/master/public/img/saved-lists.png',
             alt: 'ASOS Saved Lists Page',
           },
         },
