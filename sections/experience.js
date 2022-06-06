@@ -3,9 +3,18 @@ module.exports = {
   title: 'Experience',
   workplaces: [
     {
+      companyName: "Sainsbury's",
+      jobTitle: 'Web Developer',
+      employmentPeriod: 'FEBRUARY 2022 - PRESENT',
+      content: [
+        'Worked on internal applications that are used by members of the business to facilitate the coordination of setting prices for products. These projects utilise TypeScript, React, Redux and Redux Sagas.',
+        'Set up many microservices as part of a major replatforming of internal architecture. This involved creating GraphQL APIs, storing, transforming and retrieving information to and from databases (MongoDB) as well as publishing and subscribing to Kafka topics.',
+      ],
+    },
+    {
       companyName: 'ITV',
       jobTitle: 'Web Developer',
-      employmentPeriod: 'JANUARY 2020 - PRESENT',
+      employmentPeriod: 'JANUARY 2020 - FEBRUARY 2022',
       content: [
         "During my time at ITV I've had the opportunity to work on a number of interesting applications.",
         'I have contributed towards the ITV component library which is used on a number of the pages found on the ITV.com domain. Working on a component library was new to me when joining ITV as I had worked on stand alone applications that did not justify a component library in the past. I found the experience of working on a component library to be extremely enlightening while also adding further understanding of alternate approaches towards writing reusable code.',

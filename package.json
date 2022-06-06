@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "An express API that serves content for oliverwilson.dev",
   "main": "index.js",
-  "engines": { "node": "12.x" },
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "deploy": "now --prod"
   },
   "repository": {
     "type": "git",
@@ -25,6 +28,7 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint-plugin-import": "^2.18.2",
+    "vercel": "^25.0.1"
   }
 }
