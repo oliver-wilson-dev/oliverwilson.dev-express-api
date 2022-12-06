@@ -23,7 +23,7 @@
   "homepage": "https://github.com/oliver-wilson-dev/oliverwilson.dev-express-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
