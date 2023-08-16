@@ -7,6 +7,7 @@ module.exports = {
       jobTitle: 'Web Developer',
       employmentPeriod: 'FEBRUARY 2022 - PRESENT',
       content: [
+        "Delivered the Nectar for everyone proposition to the Sainsburys.co.uk website; is Sainsbury's loyalty scheme for Nectar card holders. This work involved frontend and backend changes to facilitate different pricing for products depending on if the user has a Nectar card. The tech stack was Typescript, React, and GO.",
         'Worked on internal applications that are used by members of the business to facilitate the coordination of setting prices for products. These projects utilise TypeScript, React, Redux and Redux Sagas.',
         'Set up many microservices as part of a major replatforming of internal architecture. This involved creating GraphQL APIs, storing, transforming and retrieving information to and from databases (MongoDB) as well as publishing and subscribing to Kafka topics.',
       ],
